@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FaceProject DeviceType="3" Id="1731859101">
+  <Screen Title="Casio Time AOD" Bitmap="preview.png">
+    <Widget Shape="30" Name="Background" Bitmap="background.png" X="0" Y="0" Width="466" Height="466" Alpha="255" Visible_Src="0" />
+    <Widget Shape="32" Name="HourTens" BitmapList="digit0.png|digit1.png|digit2.png|digit3.png|digit4.png|digit5.png|digit6.png|digit7.png|digit8.png|digit9.png" X="125" Y="172" Width="64" Height="126" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="1000911" Spacing="0" Blanking="0" />
+    <Widget Shape="32" Name="HourUnits" BitmapList="digit0.png|digit1.png|digit2.png|digit3.png|digit4.png|digit5.png|digit6.png|digit7.png|digit8.png|digit9.png" X="193" Y="172" Width="64" Height="126" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="0911" Spacing="0" Blanking="0" />
+    <Widget Shape="32" Name="MinuteTens" BitmapList="digit0.png|digit1.png|digit2.png|digit3.png|digit4.png|digit5.png|digit6.png|digit7.png|digit8.png|digit9.png" X="278" Y="172" Width="64" Height="126" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="1211" Spacing="0" Blanking="0" />
+    <Widget Shape="32" Name="MinuteUnits" BitmapList="digit0.png|digit1.png|digit2.png|digit3.png|digit4.png|digit5.png|digit6.png|digit7.png|digit8.png|digit9.png" X="346" Y="172" Width="64" Height="126" Alpha="255" Visible_Src="0" Digits="1" Alignment="0" Value_Src="1111" Spacing="0" Blanking="0" />
+    <Widget Shape="31" Name="Weekday" BitmapList="(0):weekday0.png|(1):weekday1.png|(2):weekday2.png|(3):weekday3.png|(4):weekday4.png|(5):weekday5.png|(6):weekday6.png" X="205" Y="138" Width="60" Height="26" Alpha="255" Visible_Src="0" Alignment="0" DefaultIndex="0" Index_Src="2012" Value_Src="2012" Spacing="0" Blanking="0" />
+    <Widget Shape="31" Name="Day" BitmapList="(0):day0.png|(1):day1.png|(2):day2.png|(3):day3.png|(4):day4.png|(5):day5.png|(6):day6.png|(7):day7.png|(8):day8.png|(9):day9.png|(10):day10.png|(11):day11.png|(12):day12.png|(13):day13.png|(14):day14.png|(15):day15.png|(16):day16.png|(17):day17.png|(18):day18.png|(19):day19.png|(20):day20.png|(21):day21.png|(22):day22.png|(23):day23.png|(24):day24.png|(25):day25.png|(26):day26.png|(27):day27.png|(28):day28.png|(29):day29.png|(30):day30.png|(31):day31.png" X="275" Y="138" Width="36" Height="26" Alpha="255" Visible_Src="0" Alignment="0" DefaultIndex="0" Index_Src="1812" Value_Src="1812" Spacing="0" Blanking="0" />
+  </Screen>
+</FaceProject>

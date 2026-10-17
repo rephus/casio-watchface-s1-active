@@ -1,0 +1,6 @@
+.toolchain/
+dist/
+watchfaces/**/output/
+.venv/
+__pycache__/
+.DS_Store
