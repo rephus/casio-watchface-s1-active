@@ -17,6 +17,12 @@ The normal face includes:
 
 The always-on face keeps the Casio styling with a black display background, dim lettering, time and date. It omits battery and connection indicators. Darker pixels are intended to reduce OLED power consumption; battery savings have not been measured.
 
+### Connection states
+
+![Bluetooth connected and disconnected previews](watchfaces/casio-time/preview-bluetooth.png)
+
+The connected example also shows charging; the lightning bolt disappears when charging stops.
+
 ## Download and install
 
 Download `casio-time-s1-active-v4.bin` from [Releases](https://github.com/rephus/casio-watchface-s1-active/releases).
